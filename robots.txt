@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wpaat.github.io/Elk/sitemap.Elk.gz
